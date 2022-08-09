@@ -1,5 +1,2 @@
-# RandomPasswordGenerator
+# Random Password Generator
 Random alpha-numeric password generator created using python. 
-
-
-Created using basic python functions. 
