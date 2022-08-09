@@ -3,7 +3,7 @@ import string
 
 total = string.ascii_letters + string.digits + string.punctuation
 
-length = 16
+length = int(input("Enter Password Length: "))
 
 password = "".join(random.sample(total, length))
 
